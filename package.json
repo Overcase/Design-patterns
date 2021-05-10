@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Overcase/Design-patterns#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
